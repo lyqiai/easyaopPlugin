@@ -1,0 +1,3 @@
+include ':app'
+include ':easyaopPlugin'
+rootProject.name = "pluginEasyaop"
